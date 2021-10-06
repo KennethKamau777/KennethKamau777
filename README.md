@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KennethKamau777
+- 👋 Hi, I’m Kenneth Kamau
 - 👀 I’m interested in design
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on open source projects
